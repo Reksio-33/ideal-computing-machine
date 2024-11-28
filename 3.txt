@@ -1,1 +1,1 @@
-*algorytm sortowania*
+*inny algorytm*
