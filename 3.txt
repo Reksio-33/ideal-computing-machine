@@ -1,1 +1,2 @@
-*zupełnie inny algoeytm*
+*inny algorytm*
+
